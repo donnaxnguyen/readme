@@ -1,7 +1,7 @@
 
 # Project title: Readme Generator! 
 ## Project description
-A project that creates a command-land application and allows a user's input to generate into a readme.md 
+A project that creates a command-line application and allows a user's input to generate into a readme.md 
 ## Table of Contents
 * [Installation](##installation)
 * [Usage](##Usage)
