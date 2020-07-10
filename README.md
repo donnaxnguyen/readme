@@ -17,15 +17,18 @@ This project uses the command-line and allows a user to input their info to gene
 
 ### Usage
 * Started with "npm init -y" then ran "npm init"
-![Screenshot1](assets/screenshot1.png)
-* Created package.json folder 
-![Screenshot2](assets/screenshot2.png)
-* ran the "npm install inquirer --save" and ran node.js to show the questions will run. Take a look at the generated readme.md [HERE](********)
-![Screenshot3](https://octodex.github.com/images/yaktocat.png)
+* Created a package.json folder 
+* Ran the "npm install inquirer --save" and ran node.js to show that the questions will run. 
+* Take a look at the generated readme.md [HERE](https://github.com/donnaxnguyen/readmehomework/blob/master/newREADME.md)
+
 ### Contributing
 
 ### Tests
-see screenshots!
+See screenshots below!
+![Screenshot1](assets/screenshot1.png)
+![Screenshot2](assets/screenshot2.png)
+![Screenshot3](assets/screenshot3.png)
+
 ### Questions
 ### GitHub: donnaxnguyen  
 ### License
