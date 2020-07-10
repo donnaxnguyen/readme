@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "installation test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donnaxnguyen/readmehomework.git"
+  },
+  "keywords": [],
+  "author": "donna nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donnaxnguyen/readmehomework/issues"
+  },
+  "homepage": "https://github.com/donnaxnguyen/readmehomework#readme",
+  "dependencies": {
+    "inquirer": "^7.3.1"
+  }
+}
